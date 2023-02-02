@@ -1,0 +1,19 @@
+Removed Pin From Net: NetName=GND Pin=J18-1
+Removed Pin From Net: NetName=+3V3 Pin=R24-1
+Removed Pin From Net: NetName=GND Pin=R28-1
+Removed Member From Class: ClassName=Charging_TI Member=J18
+Removed Member From Class: ClassName=Microcontroller Member=R24
+Removed Member From Class: ClassName=Microcontroller Member=R28
+Change Component Footprint: Designator=J17 Old Footprint=LARGE SOLDER POINT New Footprint=MOLEX_22035025
+Change Component Comment : Designator=J17 Old Comment=Large Board Solder Point New Comment=22035025
+Change Component Kind : Designator=J17 Old Kind=Standard (No BOM) New Kind=Standard
+Change component parameters: Designator = "J17"; Footprint = "MOLEX_22035025"; UniqueID = "\KSKTAHQG"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Molex'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "22035025"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J17-2
+Added Pin To Net: NetName=GND Pin=U5-1

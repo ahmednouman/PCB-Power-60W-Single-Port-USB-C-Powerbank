@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=R20-1
+Removed Member From Class: ClassName=Voltage_Regulation Member=J2
+Removed Member From Class: ClassName=Voltage_Regulation Member=R20
+Added Pin To Net: NetName=NetD1_2 Pin=C13-2
+Added Pin To Net: NetName=NetD1_2 Pin=U2-A5
+Change Net Name : Old Net Name=NetD1_2 New Net Name=+5V0

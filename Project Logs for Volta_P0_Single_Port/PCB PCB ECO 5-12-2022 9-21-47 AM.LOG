@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetC34_2 Pin=R68-1
+Removed Member From Class: ClassName=Charging_TI Member=R68
+Added Component: Designator=J17(MOLEX_22035025)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Molex'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "22035025"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC34_2 Pin=C48-1
+Added Pin To Net: NetName=NetC44_2 Pin=J17-1
+Added Pin To Net: NetName=GND Pin=J17-2
+Added Pin To Net: NetName=NetC34_2 Pin=R69-1
+Added Pin To Net: NetName=NetC34_2 Pin=R70-2
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C71 10 µF
+Added Member To Class: ClassName=Charging_TI Member=Component J17 22035025

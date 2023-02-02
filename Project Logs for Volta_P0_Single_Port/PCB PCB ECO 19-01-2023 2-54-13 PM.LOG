@@ -1,0 +1,3 @@
+Removed Member From Class: ClassName=PD_Controller Member=U1
+Added Pin To Net: NetName=+3V3 Pin=C12-2
+Added Pin To Net: NetName=+3V3 Pin=U2-B1

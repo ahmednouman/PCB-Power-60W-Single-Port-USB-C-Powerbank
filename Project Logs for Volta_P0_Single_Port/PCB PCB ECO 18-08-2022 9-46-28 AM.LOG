@@ -1,0 +1,83 @@
+Removed Pin From Net: NetName=NetJ2_2 Pin=R29-2
+Removed Pin From Net: NetName=NetJ2_2 Pin=U5-9
+Added Component: Designator=J2(Large Solder Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J4(Large Solder Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J5(Small Solder POint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J6(Small Solder POint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J7(Small Solder POint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J8(Small Solder POint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J9(Small Solder POint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J10(Small Solder POint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J11(Small Solder POint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J12(Small Solder POint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J13(Small Solder POint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J14(Large Solder Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J15(Large Solder Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J16(Large Solder Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J17(Large Solder Point)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J18(Large Solder Point)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=+5V0 Pin=J2-1
+Added Pin To Net: NetName=+3V3 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J5-1
+Added Pin To Net: NetName=NetR12_2 Pin=J6-1
+Added Pin To Net: NetName=NetR35_2 Pin=J7-1
+Added Pin To Net: NetName=NetR36_2 Pin=J8-1
+Added Pin To Net: NetName=NetR11_2 Pin=J9-1
+Added Pin To Net: NetName=NetR37_2 Pin=J10-1
+Added Pin To Net: NetName=NetR38_2 Pin=J11-1
+Added Pin To Net: NetName=+3V3 Pin=J12-1
+Added Pin To Net: NetName=NetJ2_2 Pin=J13-1
+Added Pin To Net: NetName=GND Pin=J15-1
+Added Pin To Net: NetName=NetC49_2 Pin=J16-1
+Added Pin To Net: NetName=NetC44_2 Pin=J17-1
+Added Pin To Net: NetName=GND Pin=J18-1
+Added Pin To Net: NetName=NetJ2_2 Pin=R39-2
+Added Pin To Net: NetName=NetJ2_2 Pin=U5-8
+Change Net Name : Old Net Name=NetJ2_2 New Net Name=NetJ13_1
+Change Net Name : Old Net Name=NetR11_2 New Net Name=NetJ9_1
+Change Net Name : Old Net Name=NetR12_2 New Net Name=NetJ6_1
+Change Net Name : Old Net Name=NetR35_2 New Net Name=NetJ7_1
+Change Net Name : Old Net Name=NetR36_2 New Net Name=NetJ8_1
+Change Net Name : Old Net Name=NetR37_2 New Net Name=NetJ10_1
+Change Net Name : Old Net Name=NetR38_2 New Net Name=NetJ11_1
+Added Pin To Net: NetName=NetJ14_1 Pin=J14-1
+Added Pin To Net: NetName=NetJ14_1 Pin=R29-2
+Added Pin To Net: NetName=NetJ14_1 Pin=U5-9
+Added Net: Name=NetJ14_1
+Added Member To Class: ClassName=Voltage_Regulation Member=Component J2 Large Board Solder Point
+Added Member To Class: ClassName=Voltage_Regulation Member=Component J4 Large Board Solder Point
+Added Member To Class: ClassName=Microcontroller Member=Component J5 Small Board Solder Point
+Added Member To Class: ClassName=Microcontroller Member=Component J6 Small Board Solder Point
+Added Member To Class: ClassName=Microcontroller Member=Component J7 Small Board Solder Point
+Added Member To Class: ClassName=Microcontroller Member=Component J8 Small Board Solder Point
+Added Member To Class: ClassName=Microcontroller Member=Component J9 Small Board Solder Point
+Added Member To Class: ClassName=Microcontroller Member=Component J10 Small Board Solder Point
+Added Member To Class: ClassName=Microcontroller Member=Component J11 Small Board Solder Point
+Added Member To Class: ClassName=Microcontroller Member=Component J12 Small Board Solder Point
+Added Member To Class: ClassName=Microcontroller Member=Component J13 Small Board Solder Point
+Added Member To Class: ClassName=Microcontroller Member=Component J14 Large Board Solder Point
+Added Member To Class: ClassName=Microcontroller Member=Component J15 Large Board Solder Point
+Added Member To Class: ClassName=Charging_TI_2 Member=Component J16 Large Board Solder Point
+Added Member To Class: ClassName=Charging_TI Member=Component J17 Large Board Solder Point
+Added Member To Class: ClassName=Charging_TI Member=Component J18 Large Board Solder Point
+Added Room: Name=Charging_TI
+Added Room: Name=Charging_TI_2
+Added Room: Name=Microcontroller
+Added Room: Name=PD_Controller
+Added Room: Name=Voltage_Regulation

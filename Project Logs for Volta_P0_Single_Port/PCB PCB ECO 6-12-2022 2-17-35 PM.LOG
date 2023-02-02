@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=GND Pin=J1-B1
+Removed Pin From Net: NetName=NetC35_2 Pin=J1-B4
+Removed Pin From Net: NetName=NetC35_2 Pin=J1-B9
+Removed Pin From Net: NetName=GND Pin=J1-B12
+Removed Pin From Net: NetName=GND Pin=J1-S
+Removed Pin From Net: NetName=GND Pin=J1-S
+Removed Pin From Net: NetName=GND Pin=J1-S
+Removed Pin From Net: NetName=GND Pin=J1-S
+Change Component Footprint: Designator=J1 Old Footprint=Molex 1054500101 New Footprint=GT-USB-7079A
+Change Component Comment : Designator=J1 Old Comment=1054500101 New Comment=C2982481
+Change component parameters: Designator = "J1"; Footprint = "GT-USB-7079A"; UniqueID = "\FQWGZMDT"
+Change component parameters. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=J1-13
+Added Pin To Net: NetName=GND Pin=J1-13
+Added Pin To Net: NetName=GND Pin=J1-14
+Added Pin To Net: NetName=GND Pin=J1-14

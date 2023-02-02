@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=NetJ9_1 Pin=R52-1
+Removed Pin From Net: NetName=+3V3 Pin=R52-2
+Removed Pin From Net: NetName=NetJ6_1 Pin=R53-1
+Removed Pin From Net: NetName=+3V3 Pin=R53-2
+Removed Member From Class: ClassName=Charging_TI Member=R52
+Removed Member From Class: ClassName=Charging_TI Member=R53

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetR39_2 Pin=R40-1
+Removed Member From Class: ClassName=Microcontroller Member=R40
+Added Pin To Net: NetName=NetR38_2 Pin=R52-1
+Added Pin To Net: NetName=NetR36_2 Pin=R53-1
+Added Pin To Net: NetName=NetR36_2 Pin=U4-12
+Added Pin To Net: NetName=NetR38_2 Pin=U4-13
+Added Member To Class: ClassName=Charging_TI Member=Component R50 10 kOhms

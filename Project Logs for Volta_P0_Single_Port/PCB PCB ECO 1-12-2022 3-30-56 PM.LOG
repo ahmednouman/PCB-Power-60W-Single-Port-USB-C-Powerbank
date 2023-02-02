@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetC12_2 Pin=R11-1
+Removed Pin From Net: NetName=NetC12_2 Pin=R12-1
+Removed Pin From Net: NetName=NetC12_2 Pin=R13-2
+Change Component Description : Designator=L1 Old Description=4A 10uH ±20% 67mO SMD,7x6.6x2.8mm Power Inductors ROHS New Description=4A 10uH ±20% 67mO SMD,7x6.6x2.8mm Power Inductors ROHS
+Added Pin To Net: NetName=+3V3 Pin=R11-1
+Added Pin To Net: NetName=+3V3 Pin=R12-1
+Added Pin To Net: NetName=+3V3 Pin=R13-2
+Added Member To Class: ClassName=Microcontroller Member=Component J3 ICD connector
+Added Member To Class: ClassName=PD_Controller Member=Component R12 2.2 kOhms

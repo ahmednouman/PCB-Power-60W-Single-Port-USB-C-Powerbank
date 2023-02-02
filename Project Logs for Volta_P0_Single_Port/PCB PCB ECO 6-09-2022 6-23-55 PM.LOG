@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetC17_1 Pin=L3-1
+Removed Pin From Net: NetName=NetC19_1 Pin=L3-2
+Removed Member From Class: ClassName=Voltage_Regulation Member=L3
+Added Component: Designator=L1(0630CDMCCDS-100MC)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC17_1 Pin=L1-1
+Added Pin To Net: NetName=NetC19_1 Pin=L1-2
+Added Member To Class: ClassName=Voltage_Regulation Member=Component L1 10uH

@@ -1,0 +1,11 @@
+Change Component Description : Designator=L1 Old Description=4A 10uH ±20% 67mO SMD,7x6.6x2.8mm Power Inductors ROHS New Description=4A 10uH ±20% 67mO SMD,7x6.6x2.8mm Power Inductors ROHS
+Change Component Description : Designator=J1 Old Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481 New Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481
+Added Component: Designator=U1(IC_TPS25750DRJKR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPS25750DRJKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=PD_Controller Member=Component U1 TPS25750DRJKR

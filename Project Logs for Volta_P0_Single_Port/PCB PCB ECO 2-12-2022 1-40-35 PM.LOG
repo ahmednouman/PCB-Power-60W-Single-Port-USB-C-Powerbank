@@ -1,0 +1,21 @@
+Removed Pin From Net: NetName=NetJ6_1 Pin=R35-1
+Removed Pin From Net: NetName=NetJ9_1 Pin=R37-1
+Removed Pin From Net: NetName=NetJ13_1 Pin=R39-2
+Removed Member From Class: ClassName=Microcontroller Member=J7
+Removed Member From Class: ClassName=Microcontroller Member=J8
+Removed Member From Class: ClassName=Microcontroller Member=J10
+Removed Member From Class: ClassName=Microcontroller Member=J11
+Removed Member From Class: ClassName=Microcontroller Member=R35
+Removed Member From Class: ClassName=Microcontroller Member=R36
+Removed Member From Class: ClassName=Microcontroller Member=R37
+Removed Member From Class: ClassName=Microcontroller Member=R38
+Removed Member From Class: ClassName=Microcontroller Member=R39
+Added Pin To Net: NetName=NetJ13_1 Pin=R13-1
+Added Pin To Net: NetName=NetJ9_1 Pin=R52-1
+Added Pin To Net: NetName=NetJ6_1 Pin=R53-1
+Added Pin To Net: NetName=NetJ13_1 Pin=U2-A1
+Added Pin To Net: NetName=NetJ6_1 Pin=U4-12
+Added Pin To Net: NetName=NetJ9_1 Pin=U4-13
+Added Pin To Net: NetName=NetJ9_1 Pin=U5-17
+Added Pin To Net: NetName=NetJ6_1 Pin=U5-18
+Added Member To Class: ClassName=Charging_TI Member=Component R68 0 Ohms

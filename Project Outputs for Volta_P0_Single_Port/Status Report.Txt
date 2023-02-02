@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Volta_P0_Single_Port.PrjPcb]
+   Generated File[PCB-RoundHoles.TXT]
+   Generated File[PCB-SlotHoles.TXT]
+   Generated File[PCB.LDP]
+   Generated File[PCB.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 5:02:19 PM On 8/12/2022
