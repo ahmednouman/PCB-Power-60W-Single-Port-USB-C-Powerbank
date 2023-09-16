@@ -1,0 +1,2 @@
+Removed Pin From Net: NetName=GPIO0_PD Pin=R2-1
+Added Pin To Net: NetName=I2CS_IRQ Pin=R2-1

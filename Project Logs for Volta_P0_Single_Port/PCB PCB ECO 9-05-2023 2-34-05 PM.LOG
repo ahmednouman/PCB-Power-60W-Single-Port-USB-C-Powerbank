@@ -1,0 +1,9 @@
+Change Net Name : Old Net Name=NetC14_2 New Net Name=EXT_SR_N
+Change Net Name : Old Net Name=NetC33_2 New Net Name=EXT_AC_N
+Change Net Name : Old Net Name=PPHV New Net Name=EXT_AC_P
+Change Net Name : Old Net Name=V_SYS New Net Name=EXT_SR_P
+Added Differential Pair: Name=EXT_AC
+Added Differential Pair: Name=EXT_SR
+Added Member To Class: ClassName=CUR_SENSE_PPHV Member=EXT_AC
+Added Member To Class: ClassName=CUR_SENSE_BATT Member=EXT_SR
+Added Member To Class: ClassName=USB_90 Member=EXT_SR

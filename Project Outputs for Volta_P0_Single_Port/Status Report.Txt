@@ -1,13 +1,47 @@
-Output: NC Drill Files
-Type  : NC Drill
+Source PCB Design Panel-Single.PcbDoc contains embedded board array. It is recomended to generate individual BOM for each embedded board PCB design.
+
+Output: Gerber X2 Files
+Type  : GerberX2
 From  : Project [Volta_P0_Single_Port.PrjPcb]
-   Generated File[PCB-RoundHoles.TXT]
-   Generated File[PCB-SlotHoles.TXT]
-   Generated File[PCB.LDP]
-   Generated File[PCB.DRR]
+   Generated File[Panel-Single_Copper_Signal_Top.gbr]
+   Generated File[Panel-Single_Copper_Plane_1.gbr]
+   Generated File[Panel-Single_Copper_Signal_1.gbr]
+   Generated File[Panel-Single_Copper_Signal_2.gbr]
+   Generated File[Panel-Single_Copper_Plane_2.gbr]
+   Generated File[Panel-Single_Copper_Signal_Bot.gbr]
+   Generated File[Panel-Single_Pads_Bot.gbr]
+   Generated File[Panel-Single_Pads_Top.gbr]
+   Generated File[Panel-Single_Paste_Bot.gbr]
+   Generated File[Panel-Single_Legend_Bot.gbr]
+   Generated File[Panel-Single_Soldermask_Bot.gbr]
+   Generated File[Panel-Single_Legend_Top.gbr]
+   Generated File[Panel-Single_Paste_Top.gbr]
+   Generated File[Panel-Single_Soldermask_Top.gbr]
+   Generated File[Panel-Single_Keep-out.gbr]
+   Generated File[Panel-Single_Mechanical_31.gbr]
+   Generated File[Panel-Single_Mechanical_4.gbr]
+   Generated File[Panel-Single_Mechanical_2.gbr]
+   Generated File[Panel-Single_Mechanical_14.gbr]
+   Generated File[Panel-Single_Mechanical_16.gbr]
+   Generated File[Panel-Single_Mechanical_1.gbr]
+   Generated File[Panel-Single_Mechanical_3.gbr]
+   Generated File[Panel-Single_Mechanical_15.gbr]
+   Generated File[Panel-Single_Mechanical_13.gbr]
+   Generated File[Panel-Single_Mechanical_11.gbr]
+   Generated File[Panel-Single_Mechanical_6.gbr]
+   Generated File[Panel-Single_Mechanical_5.gbr]
+   Generated File[Panel-Single_Mechanical_12.gbr]
+   Generated File[Panel-Single_Profile.gbr]
+   Generated File[Panel-Single_NPTH_Drill.gbr]
+   Generated File[Panel-Single_PTH_Drill.gbr]
+   Generated File[Panel-Single_Drawing_1.gbr]
+   Generated File[Panel-Single_Drillmap_1.gbr]
+   Generated File[Panel-Single.RUL]
+   Generated File[Panel-Single.EXTREP]
+   Generated File[Panel-Single.REP]
 
 
-Files Generated   : 4
+Files Generated   : 36
 Documents Printed : 0
 
-Finished Output Generation At 5:02:19 PM On 8/12/2022
+Finished Output Generation At 7:35:44 PM On 18/07/2023

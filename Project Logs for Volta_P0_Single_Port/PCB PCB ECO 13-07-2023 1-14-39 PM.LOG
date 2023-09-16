@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=BATT_NEG New Net Name=FUEL_SR_P
+Change Net Name : Old Net Name=GND New Net Name=FUEL_SR_N
+Change Differential Pair Negative Net Name : Old Net Name=FUEL_SR_N New Net Name=FUEL_SR_P
+Change Class Name : Old Net Name=CURR_SENSE_FUEL New Net Name=CURR_SENSE_FUEL_BATT

@@ -1,0 +1,256 @@
+Removed Member From Class: ClassName=Charging_TI_2 Member=C3
+Removed Member From Class: ClassName=Voltage_Regulation_TI Member=C3
+Removed Member From Class: ClassName=Charging_TI_2 Member=C5
+Removed Member From Class: ClassName=Voltage_Regulation_TI Member=C5
+Removed Member From Class: ClassName=Charging_TI_2 Member=C7
+Removed Member From Class: ClassName=PD_Controller_TI Member=C7
+Removed Member From Class: ClassName=Charging_TI_2 Member=C14
+Removed Member From Class: ClassName=Charging_TI_2 Member=C20
+Removed Member From Class: ClassName=PD_Controller_TI Member=C20
+Removed Member From Class: ClassName=Charging_TI_2 Member=C21
+Removed Member From Class: ClassName=Voltage_Regulation_TI Member=C21
+Removed Member From Class: ClassName=Charging_TI_2 Member=C22
+Removed Member From Class: ClassName=PD_Controller_TI Member=C22
+Removed Member From Class: ClassName=Voltage_Regulation_TI Member=C26
+Removed Member From Class: ClassName=Voltage_Regulation_TI Member=C28
+Removed Member From Class: ClassName=PD_Controller_TI Member=C31
+Removed Member From Class: ClassName=PD_Controller_TI Member=C36
+Removed Member From Class: ClassName=PD_Controller_TI Member=C38
+Removed Member From Class: ClassName=PD_Controller_TI Member=C40
+Removed Member From Class: ClassName=Voltage_Regulation_TI Member=C43
+Removed Member From Class: ClassName=Voltage_Regulation_TI Member=C46
+Removed Member From Class: ClassName=Voltage_Regulation_TI Member=C47
+Removed Member From Class: ClassName=Voltage_Regulation_TI Member=C49
+Removed Member From Class: ClassName=Charging_TI Member=R2
+Removed Member From Class: ClassName=I2C Member=R2
+Removed Member From Class: ClassName=PD_Controller_TI Member=R18
+Removed Member From Class: ClassName=I2C Member=R22
+Removed Member From Class: ClassName=I2C Member=R30
+Removed Member From Class: ClassName=PD_Controller_TI Member=U1
+Added Component: Designator=D4(LED 0805_2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.qt-brightek.com/datasheet/QBLP631-IW5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/qt-brightek-qtb/QBLP631-IW5/16499651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Test"; Value = "5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.90mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9/08/2022 12:43:05 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Size"; Value = "1.30mm x 1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Rectangle with Flat Top"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "QT Brightek (QTB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "85mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1097"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "QBLP631-IW5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "QBLP631"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "2.00mm L x 1.25mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1516-QBLP631-IW5CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2.9V"; VariantName = "[No Variations]"
+Added Component: Designator=D9(LED 0805_2012)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Color"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.qt-brightek.com/datasheet/QBLP631-IW5.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/en/products/detail/qt-brightek-qtb/QBLP631-IW5/16499651"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Configuration"; Value = "Standard"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Test"; Value = "5mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height (Max)"; Value = "0.90mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9/08/2022 12:43:05 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Color"; Value = "Yellow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Size"; Value = "1.30mm x 1.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Style"; Value = "Rectangle with Flat Top"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lens Transparency"; Value = "Diffused"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "QT Brightek (QTB)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Millicandela Rating"; Value = "85mcd"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0805 (2012 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1097"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "QBLP631-IW5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.08"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "QBLP631"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Size / Dimension"; Value = "2.00mm L x 1.25mm W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "0805"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1516-QBLP631-IW5CT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "White"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Viewing Angle"; Value = "140°"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "2.9V"; VariantName = "[No Variations]"
+Added Component: Designator=D10(0402)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Applications"; Value = "General Purpose"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Bidirectional Channels"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Capacitance @ Frequency"; Value = "0.05pF @ 1MHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.murata.com/en-us/products/productdata/8796832759838/CRESD-E.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "DigiKey Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/murata-electronics/LXES15AAA1-153/490-13210-2-ND/5843762"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LastUpdated"; Value = "9/08/2022 12:53:02 PM"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifecycle Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Minimum Order"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C (TA)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "0402 (1005 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeAndReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "10448"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "LXES15AAA1-153"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Power Line Protection"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "1005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-13210-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Zener"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Reverse Standoff (Typ)"; Value = "4V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+3V3 Pin=D4-1
+Added Pin To Net: NetName=NetD4_2 Pin=D4-2
+Added Pin To Net: NetName=+5V Pin=D9-1
+Added Pin To Net: NetName=NetD9_2 Pin=D9-2
+Added Pin To Net: NetName=NetD10_1 Pin=D10-1
+Added Pin To Net: NetName=GND Pin=D10-2
+Added Member To Class: ClassName=Microcontroller Member=Component C1 0.1 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C2 4.7 µF
+Added Member To Class: ClassName=Microcontroller Member=Component C8 10000 pF
+Added Member To Class: ClassName=Charging_TI Member=Component C9 33 pF
+Added Member To Class: ClassName=Charging_TI Member=Component C10 4700 pF
+Added Member To Class: ClassName=Charging_TI Member=Component C11 680 pF
+Added Member To Class: ClassName=Charging_TI Member=Component C12 15 pF
+Added Member To Class: ClassName=Charging_TI Member=Component C13 1 µF
+Added Member To Class: ClassName=Charging_TI Member=Component C15 10 µF
+Added Member To Class: ClassName=Charging_TI Member=Component C17 0.1 µF
+Added Member To Class: ClassName=Charging_TI Member=Component C19 0.47 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C24 10 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C25 10 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C27 10 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C29 10 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C30 10 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C32 33 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C33 1000 pF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C34 10000 pF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C35 0.047 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C37 10000 pF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C39 0.033 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C41 150 pF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C42 10000 pF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C44 10 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C45 10 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C48 10 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C50 10 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C51 10 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C52 10 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C53 33 µF
+Added Member To Class: ClassName=PD_Controller_TI Member=Component C54 10 µF
+Added Member To Class: ClassName=PD_Controller_TI Member=Component C55 10 µF
+Added Member To Class: ClassName=PD_Controller_TI Member=Component C56 220 pF
+Added Member To Class: ClassName=PD_Controller_TI Member=Component C57 220 pF
+Added Member To Class: ClassName=PD_Controller_TI Member=Component C58 22 µF
+Added Member To Class: ClassName=PD_Controller_TI Member=Component C59 22 µF
+Added Member To Class: ClassName=PD_Controller_TI Member=Component C60 0.1 µF
+Added Member To Class: ClassName=PD_Controller_TI Member=Component C61 10000 pF
+Added Member To Class: ClassName=PD_Controller_TI Member=Component C62 10000 pF
+Added Member To Class: ClassName=PD_Controller_TI Member=Component C63 10000 pF
+Added Member To Class: ClassName=PD_Controller_TI Member=Component C64 10000 pF
+Added Member To Class: ClassName=PD_Controller_TI Member=Component C65 10 µF
+Added Member To Class: ClassName=PD_Controller_TI Member=Component C66 0.1 µF
+Added Member To Class: ClassName=Voltage_Regulation_TI Member=Component C67 4.7 µF
+Added Member To Class: ClassName=Voltage_Regulation_TI Member=Component C68 4.7 µF
+Added Member To Class: ClassName=Voltage_Regulation_TI Member=Component C70 22 µF
+Added Member To Class: ClassName=Voltage_Regulation_TI Member=Component C71 22 µF
+Added Member To Class: ClassName=Voltage_Regulation_TI Member=Component C72 100 µF
+Added Member To Class: ClassName=Voltage_Regulation_TI Member=Component C73 100 µF
+Added Member To Class: ClassName=Voltage_Regulation_TI Member=Component C74 100 µF
+Added Member To Class: ClassName=Voltage_Regulation_TI Member=Component C75 0.1 µF
+Added Member To Class: ClassName=Voltage_Regulation_TI Member=Component C76 22 µF
+Added Member To Class: ClassName=Voltage_Regulation_TI Member=Component C77 22 µF
+Added Member To Class: ClassName=Voltage_Regulation_TI Member=Component C78 100 µF
+Added Member To Class: ClassName=Microcontroller Member=Component D1 White
+Added Member To Class: ClassName=Microcontroller Member=Component D2 White
+Added Member To Class: ClassName=Microcontroller Member=Component D3 White
+Added Member To Class: ClassName=I2C Member=Component D4 White
+Added Member To Class: ClassName=I2C Member=Component D5 White
+Added Member To Class: ClassName=I2C Member=Component D6 White
+Added Member To Class: ClassName=I2C Member=Component D7 White
+Added Member To Class: ClassName=I2C Member=Component D9 White
+Added Member To Class: ClassName=PD_Controller_TI Member=Component D10 LXES15AAA1-153
+Added Member To Class: ClassName=Microcontroller Member=Component IC1 DMN67D8L-7
+Added Member To Class: ClassName=Charging_TI_2 Member=Component IC3 BSC020N03MSGATMA1
+Added Member To Class: ClassName=Charging_TI_2 Member=Component IC4 BSC020N03MSGATMA1
+Added Member To Class: ClassName=Microcontroller Member=Component J1 Large Board Solder Point
+Added Member To Class: ClassName=Charging_TI_2 Member=Component L1 4.7 µH
+Added Member To Class: ClassName=Microcontroller Member=Component R1 0 Ohms
+Added Member To Class: ClassName=Microcontroller Member=Component R2 0 Ohms
+Added Member To Class: ClassName=Microcontroller Member=Component R3 22 Ohms
+Added Member To Class: ClassName=Microcontroller Member=Component R4 22 Ohms
+Added Member To Class: ClassName=Microcontroller Member=Component R5 22 Ohms
+Added Member To Class: ClassName=Microcontroller Member=Component R6 0 Ohms
+Added Member To Class: ClassName=Microcontroller Member=Component R7 100 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R8 1 MOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R9 2.2 kOhms
+Added Member To Class: ClassName=Microcontroller Member=Component R10 1 kOhms
+Added Member To Class: ClassName=Charging_TI Member=Component R13 150 kOhms
+Added Member To Class: ClassName=Charging_TI Member=Component R14 100 kOhms
+Added Member To Class: ClassName=Charging_TI Member=Component R15 300 kOhms
+Added Member To Class: ClassName=Charging_TI Member=Component R16 2 MOhms
+Added Member To Class: ClassName=Charging_TI Member=Component R17 10 kOhms
+Added Member To Class: ClassName=Charging_TI Member=Component R19 15 kOhms
+Added Member To Class: ClassName=Charging_TI Member=Component R20 10 kOhms
+Added Member To Class: ClassName=Charging_TI Member=Component R21 10 kOhms
+Added Member To Class: ClassName=Charging_TI Member=Component R23 383 kOhms
+Added Member To Class: ClassName=Charging_TI Member=Component R24 5 mOhms
+Added Member To Class: ClassName=Charging_TI Member=Component R25 220 kOhms
+Added Member To Class: ClassName=Charging_TI Member=Component R26 10 Ohms
+Added Member To Class: ClassName=Charging_TI Member=Component R27 10 Ohms
+Added Member To Class: ClassName=Charging_TI Member=Component R28 10 Ohms
+Added Member To Class: ClassName=Charging_TI Member=Component R29 30.1 kOhms
+Added Member To Class: ClassName=Charging_TI_2 Member=Component R31 5 mOhms
+Added Member To Class: ClassName=Charging_TI_2 Member=Component R32 4.99 Ohms
+Added Member To Class: ClassName=Charging_TI_2 Member=Component R33 4.99 Ohms
+Added Member To Class: ClassName=I2C Member=Component R34 10 kOhms
+Added Member To Class: ClassName=I2C Member=Component R35 10 kOhms
+Added Member To Class: ClassName=I2C Member=Component R36 10 kOhms
+Added Member To Class: ClassName=I2C Member=Component R37 10 kOhms
+Added Member To Class: ClassName=I2C Member=Component R38 10 kOhms
+Added Member To Class: ClassName=I2C Member=Component R39 10 kOhms
+Added Member To Class: ClassName=I2C Member=Component R40 2.2 kOhms
+Added Member To Class: ClassName=I2C Member=Component R41 2.2 kOhms
+Added Member To Class: ClassName=I2C Member=Component R42 10 kOhms
+Added Member To Class: ClassName=I2C Member=Component R43 2.2 kOhms
+Added Member To Class: ClassName=I2C Member=Component R44 2.2 kOhms
+Added Member To Class: ClassName=I2C Member=Component R45 10 kOhms
+Added Member To Class: ClassName=PD_Controller_TI Member=Component R46 100 kOhms
+Added Member To Class: ClassName=PD_Controller_TI Member=Component R55 10 kOhms
+Added Member To Class: ClassName=Voltage_Regulation_TI Member=Component R56 47.5 kOhms
+Added Member To Class: ClassName=Voltage_Regulation_TI Member=Component R63 10 kOhms
+Added Member To Class: ClassName=Charging_TI Member=Component U2 BQ25731RSNR
+Added Member To Class: ClassName=PD_Controller_TI Member=Component U4 TVS2200DRVR
+Added Member To Class: ClassName=PD_Controller_TI Member=Component U5 CAT24C256WI-G
+Added Room: Name=Charging_TI
+Added Room: Name=Charging_TI_2
+Added Room: Name=I2C
+Added Room: Name=Microcontroller
+Added Room: Name=PD_Controller_TI
+Added Room: Name=Voltage_Regulation_TI

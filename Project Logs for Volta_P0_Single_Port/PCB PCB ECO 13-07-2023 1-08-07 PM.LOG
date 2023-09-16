@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=V_BATT Pin=R75-2
+Removed Member From Class: ClassName=Fuel_Gauge Member=R75
+Removed Member From Class: ClassName=Fuel_Gauge Member=R76
+Added Pin To Net: NetName=+3V3 Pin=Q9-1
+Added Pin To Net: NetName=+3V3 Pin=Q10-3

@@ -1,0 +1,37 @@
+Change Component Comment : Designator=Q1 Old Comment=AON6312 New Comment=AONS3606
+Change Component Comment : Designator=Q2 Old Comment=AON6312 New Comment=AONS3606
+Change Component Comment : Designator=Q3 Old Comment=AON6312 New Comment=AONS3606
+Change Component Comment : Designator=Q4 Old Comment=AON6312 New Comment=AONS3606
+Change Component Kind : Designator=R74 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R73 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R67 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R66 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R65 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R64 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R48 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R39 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R38 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R37 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R36 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R35 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=R34 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Q8 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Q7 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Q6 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=Q5 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=J10 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=J8 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=J7 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=J6 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=D13 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=D12 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=D10 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=D9 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=D8 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=D7 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=D6 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=D5 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=D4 Old Kind=Standard New Kind=Standard (No BOM)
+Added Pin To Net: NetName=ADCIN2 Pin=C54-2
+Added Pin To Net: NetName=ADCIN2 Pin=J10-2
+Added Pin To Net: NetName=ADCIN2 Pin=U3-4

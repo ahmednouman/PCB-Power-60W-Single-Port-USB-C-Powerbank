@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=GND Pin=C44-1
+Removed Pin From Net: NetName=NetC13_1 Pin=C44-2
+Removed Member From Class: ClassName=Charging_TI_2 Member=C44
+Added Member To Class: ClassName=PD_Controller_TI Member=Component J10 TSM-102-01-L-SV

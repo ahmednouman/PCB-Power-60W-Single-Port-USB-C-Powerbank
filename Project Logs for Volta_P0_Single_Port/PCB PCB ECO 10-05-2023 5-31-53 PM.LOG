@@ -1,0 +1,26 @@
+Removed Pin From Net: NetName=DCONN_P Pin=D10-1
+Removed Pin From Net: NetName=GND Pin=D10-2
+Removed Pin From Net: NetName=DCONN_N Pin=D11-1
+Removed Pin From Net: NetName=GND Pin=D11-2
+Removed Pin From Net: NetName=DCONN_P Pin=R48-2
+Removed Pin From Net: NetName=DCONN_N Pin=R50-2
+Removed Member From Class: ClassName=PD_Controller_TI Member=D10
+Removed Member From Class: ClassName=PD_Controller_TI Member=D11
+Removed Member From Class: ClassName=PD_Controller_TI Member=R48
+Removed Member From Class: ClassName=PD_Controller_TI Member=R50
+Added Component: Designator=U9(IC_ESD122DMXR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESD122DMXR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=DCONN_P Pin=R11-1
+Added Pin To Net: NetName=DCONN_N Pin=R12-1
+Added Pin To Net: NetName=DCONN_P Pin=R49-2
+Added Pin To Net: NetName=DCONN_N Pin=R51-2
+Added Pin To Net: NetName=GND Pin=U9-1
+Added Pin To Net: NetName=DCONN_N Pin=U9-2
+Added Pin To Net: NetName=DCONN_P Pin=U9-3
+Added Member To Class: ClassName=PD_Controller_TI Member=Component U9 ESD122DMXR

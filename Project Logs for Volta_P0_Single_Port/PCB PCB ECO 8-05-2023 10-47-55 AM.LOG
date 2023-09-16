@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetD10_1 Pin=J11-A6
+Removed Pin From Net: NetName=NetD11_1 Pin=J11-A7
+Added Pin To Net: NetName=D_CONN_N Pin=J11-A7
+Added Net: Name=D_CONN_N
+Added Pin To Net: NetName=D_CONN_P Pin=J11-A6
+Added Net: Name=D_CONN_P
+Added Differential Pair: Name=D_CONN
+Added Class: Name=USB_90

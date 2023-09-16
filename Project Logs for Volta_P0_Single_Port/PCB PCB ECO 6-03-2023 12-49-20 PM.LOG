@@ -1,0 +1,5 @@
+Change Component Description : Designator=L1 Old Description=4A 10uH ±20% 67mO SMD,7x6.6x2.8mm Power Inductors ROHS New Description=4A 10uH ±20% 67mO SMD,7x6.6x2.8mm Power Inductors ROHS
+Change Component Description : Designator=J1 Old Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481 New Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481
+Added Component: Designator=LP1(Dialight 515-1069F)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=Microcontroller Member=Component LP1 LIGHT PIPE

@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=D_CONN_N New Net Name=DCONN_N
+Change Net Name : Old Net Name=D_CONN_P New Net Name=DCONN_P
+Added Differential Pair: Name=DCONN
+Added Class: Name=USB_90

@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=KNOCK_SENSOR Pin=D11-A
+Removed Pin From Net: NetName=+3V3 Pin=D11-C
+Removed Pin From Net: NetName=VDDA Pin=R13-1
+Removed Pin From Net: NetName=GND Pin=R14-2
+Removed Pin From Net: NetName=LED_3 Pin=U1-13
+Removed Pin From Net: NetName=LED_2 Pin=U1-14
+Removed Member From Class: ClassName=Microcontroller Member=D11
+Removed Member From Class: ClassName=Charging_TI Member=R13
+Removed Member From Class: ClassName=Charging_TI Member=R14
+Change Component Description : Designator=J11 Old Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481 New Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481
+Added Pin To Net: NetName=LED_2 Pin=U1-13
+Added Pin To Net: NetName=LED_3 Pin=U1-14
+Added Pin To Net: NetName=VDDA Pin=U2-18
+Change Net Name : Old Net Name=VDDA New Net Name=CELL_BATTPRESZ

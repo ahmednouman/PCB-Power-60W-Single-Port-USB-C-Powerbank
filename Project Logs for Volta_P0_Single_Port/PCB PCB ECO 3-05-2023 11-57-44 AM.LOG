@@ -1,0 +1,46 @@
+Removed Pin From Net: NetName=+5V0 Pin=C67-2
+Removed Pin From Net: NetName=+3V3 Pin=C68-2
+Removed Pin From Net: NetName=+3V3 Pin=U7-3
+Removed Pin From Net: NetName=+3V3 Pin=U7-6
+Removed Pin From Net: NetName=+5V0 Pin=U7-13
+Removed Pin From Net: NetName=+3V3 Pin=U7-20
+Change Component Description : Designator=J11 Old Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481 New Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481
+Change Component Description : Designator=L3 Old Description=Inductor SMD 7050 3.3 ÂµH 9 A Wuerth Elektronik WE-HCI 744314330 1 pc(s) New Description=Inductor SMD 7050 3.3µH 9 A Wuerth Elektronik WE-HCI 744314330 1 pc(s)
+Change Component Description : Designator=L2 Old Description=LHMI Inductor 4020 1.0uH 5.0A 27.0mOhm New Description=LHMI Inductor 4020 2.2uH 5.0A 27.0mOhm
+Change component parameters: Designator = "L2"; Footprint = "IND_74437324022"; UniqueID = "\KHEKRHSY"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'W\xfcrth Elektronik'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "74437324022"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "2.2µH"; VariantName = "[No Variations]"
+Change component parameters: Designator = "L3"; Footprint = "IND_744314330"; UniqueID = "\VDQUULRV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Wurth Electronics'}"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "744314330"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "3.3µH"; VariantName = "[No Variations]"
+Added Component: Designator=J8(TSM-102-01-L-SV)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Samtec Inc.'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TSM-102-01-L-SV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=J8-1
+Added Pin To Net: NetName=GND Pin=J8-2
+Added Pin To Net: NetName=+3V3_REG Pin=U7-3
+Added Pin To Net: NetName=+3V3_REG Pin=U7-6
+Added Pin To Net: NetName=+3V3_REG Pin=U7-20
+Added Net: Name=+3V3_REG
+Added Pin To Net: NetName=+5V0_REG Pin=U7-13
+Added Net: Name=+5V0_REG
+Added Pin To Net: NetName=NetC67_2 Pin=C67-2
+Added Net: Name=NetC67_2
+Added Pin To Net: NetName=NetC68_2 Pin=C68-2
+Added Net: Name=NetC68_2
+Added Member To Class: ClassName=I2C Member=Component J8 TSM-102-01-L-SV

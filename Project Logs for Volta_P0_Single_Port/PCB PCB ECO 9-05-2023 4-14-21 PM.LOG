@@ -1,0 +1,85 @@
+Removed Pin From Net: NetName=SW1 Pin=IC3-1
+Removed Pin From Net: NetName=SW1 Pin=IC3-2
+Removed Pin From Net: NetName=SW1 Pin=IC3-3
+Removed Pin From Net: NetName=HIDRV1 Pin=IC3-4
+Removed Pin From Net: NetName=NetC33_2 Pin=IC3-5
+Removed Pin From Net: NetName=NetC33_2 Pin=IC3-6
+Removed Pin From Net: NetName=NetC33_2 Pin=IC3-7
+Removed Pin From Net: NetName=NetC33_2 Pin=IC3-8
+Removed Pin From Net: NetName=GND Pin=IC4-1
+Removed Pin From Net: NetName=GND Pin=IC4-2
+Removed Pin From Net: NetName=GND Pin=IC4-3
+Removed Pin From Net: NetName=LODRV1 Pin=IC4-4
+Removed Pin From Net: NetName=SW1 Pin=IC4-5
+Removed Pin From Net: NetName=SW1 Pin=IC4-6
+Removed Pin From Net: NetName=SW1 Pin=IC4-7
+Removed Pin From Net: NetName=SW1 Pin=IC4-8
+Removed Pin From Net: NetName=GND Pin=IC5-1
+Removed Pin From Net: NetName=GND Pin=IC5-2
+Removed Pin From Net: NetName=GND Pin=IC5-3
+Removed Pin From Net: NetName=LODRV2 Pin=IC5-4
+Removed Pin From Net: NetName=SW2 Pin=IC5-5
+Removed Pin From Net: NetName=SW2 Pin=IC5-6
+Removed Pin From Net: NetName=SW2 Pin=IC5-7
+Removed Pin From Net: NetName=SW2 Pin=IC5-8
+Removed Pin From Net: NetName=SW2 Pin=IC6-1
+Removed Pin From Net: NetName=SW2 Pin=IC6-2
+Removed Pin From Net: NetName=SW2 Pin=IC6-3
+Removed Pin From Net: NetName=HIDRV2 Pin=IC6-4
+Removed Pin From Net: NetName=V_SYS Pin=IC6-5
+Removed Pin From Net: NetName=V_SYS Pin=IC6-6
+Removed Pin From Net: NetName=V_SYS Pin=IC6-7
+Removed Pin From Net: NetName=V_SYS Pin=IC6-8
+Removed Member From Class: ClassName=Charging_TI_2 Member=IC3
+Removed Member From Class: ClassName=Charging_TI_2 Member=IC4
+Removed Member From Class: ClassName=Charging_TI_2 Member=IC5
+Removed Member From Class: ClassName=Charging_TI_2 Member=IC6
+Added Component: Designator=Q1(DFN 5x6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q2(DFN 5x6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q3(DFN 5x6)
+Add component. Clean all parameters for all variants
+Added Component: Designator=Q4(DFN 5x6)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetC33_2 Pin=Q1-D
+Added Pin To Net: NetName=NetC33_2 Pin=Q1-D
+Added Pin To Net: NetName=NetC33_2 Pin=Q1-D
+Added Pin To Net: NetName=NetC33_2 Pin=Q1-D
+Added Pin To Net: NetName=NetC33_2 Pin=Q1-D
+Added Pin To Net: NetName=HIDRV1 Pin=Q1-G
+Added Pin To Net: NetName=SW1 Pin=Q1-S
+Added Pin To Net: NetName=SW1 Pin=Q1-S
+Added Pin To Net: NetName=SW1 Pin=Q1-S
+Added Pin To Net: NetName=SW1 Pin=Q2-D
+Added Pin To Net: NetName=SW1 Pin=Q2-D
+Added Pin To Net: NetName=SW1 Pin=Q2-D
+Added Pin To Net: NetName=SW1 Pin=Q2-D
+Added Pin To Net: NetName=SW1 Pin=Q2-D
+Added Pin To Net: NetName=LODRV1 Pin=Q2-G
+Added Pin To Net: NetName=GND Pin=Q2-S
+Added Pin To Net: NetName=GND Pin=Q2-S
+Added Pin To Net: NetName=GND Pin=Q2-S
+Added Pin To Net: NetName=SW2 Pin=Q3-D
+Added Pin To Net: NetName=SW2 Pin=Q3-D
+Added Pin To Net: NetName=SW2 Pin=Q3-D
+Added Pin To Net: NetName=SW2 Pin=Q3-D
+Added Pin To Net: NetName=SW2 Pin=Q3-D
+Added Pin To Net: NetName=LODRV2 Pin=Q3-G
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=GND Pin=Q3-S
+Added Pin To Net: NetName=V_SYS Pin=Q4-D
+Added Pin To Net: NetName=V_SYS Pin=Q4-D
+Added Pin To Net: NetName=V_SYS Pin=Q4-D
+Added Pin To Net: NetName=V_SYS Pin=Q4-D
+Added Pin To Net: NetName=V_SYS Pin=Q4-D
+Added Pin To Net: NetName=HIDRV2 Pin=Q4-G
+Added Pin To Net: NetName=SW2 Pin=Q4-S
+Added Pin To Net: NetName=SW2 Pin=Q4-S
+Added Pin To Net: NetName=SW2 Pin=Q4-S
+Added Member To Class: ClassName=Charging_TI_2 Member=Component C48 10 µF
+Added Member To Class: ClassName=Charging_TI_2 Member=Component Q1 AON6362
+Added Member To Class: ClassName=Charging_TI_2 Member=Component Q2 AON6362
+Added Member To Class: ClassName=Charging_TI_2 Member=Component Q3 AON6362
+Added Member To Class: ClassName=Charging_TI_2 Member=Component Q4 AON6362

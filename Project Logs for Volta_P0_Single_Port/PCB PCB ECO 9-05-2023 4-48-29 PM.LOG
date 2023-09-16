@@ -1,0 +1,12 @@
+Removed Member From Class: ClassName=Charging_TI_2 Member=Q5
+Removed Member From Class: ClassName=Charging_TI_2 Member=Q6
+Removed Member From Class: ClassName=Charging_TI_2 Member=Q7
+Removed Member From Class: ClassName=Charging_TI_2 Member=Q8
+Change Component Footprint: Designator=L1 Old Footprint=WURTH WE-HCI 1365 New Footprint=BMQADY1010404R7MA1
+Change Component Comment : Designator=L1 Old Comment=4.7 µH New Comment=4.7uH
+Change component parameters: Designator = "L1"; Footprint = "BMQADY1010404R7MA1"; UniqueID = "\JOXBFFJI"
+Change component parameters. Clean all parameters for all variants
+Added Member To Class: ClassName=Charging_TI_2 Member=Component Q1 AON6362
+Added Member To Class: ClassName=Charging_TI_2 Member=Component Q2 AON6362
+Added Member To Class: ClassName=Charging_TI_2 Member=Component Q3 AON6362
+Added Member To Class: ClassName=Charging_TI_2 Member=Component Q4 AON6362

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=ACN Pin=U2-2
+Removed Pin From Net: NetName=ACP Pin=U2-3
+Change Net Name : Old Net Name=ACN New Net Name=AC_N
+Change Net Name : Old Net Name=ACP New Net Name=AC_P
+Change Net Name : Old Net Name=SRN New Net Name=SR_N
+Change Net Name : Old Net Name=SRP New Net Name=SR_P
+Added Differential Pair: Name=AC
+Added Differential Pair: Name=SR
+Added Class: Name=CUR_SENSE_BATT
+Added Class: Name=CUR_SENSE_PPHV
+Added Member To Class: ClassName=USB_90 Member=SR

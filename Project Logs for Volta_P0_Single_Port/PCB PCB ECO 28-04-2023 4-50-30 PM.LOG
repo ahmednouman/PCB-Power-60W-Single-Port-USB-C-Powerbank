@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=NetJ7_2 Pin=TP4-TP
+Removed Pin From Net: NetName=NetJ6_2 Pin=TP5-TP
+Removed Pin From Net: NetName=NetJ7_1 Pin=TP6-TP
+Removed Pin From Net: NetName=NetJ6_1 Pin=TP7-TP
+Removed Member From Class: ClassName=I2C Member=TP4
+Removed Member From Class: ClassName=I2C Member=TP5
+Removed Member From Class: ClassName=I2C Member=TP6
+Removed Member From Class: ClassName=I2C Member=TP7

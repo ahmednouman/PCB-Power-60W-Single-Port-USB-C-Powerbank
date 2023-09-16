@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=ACN Pin=U2-2
+Removed Pin From Net: NetName=ACP Pin=U2-3
+Change Component Kind : Designator=C49 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C48 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C30 Old Kind=Standard New Kind=Standard (No BOM)
+Change Component Kind : Designator=C24 Old Kind=Standard New Kind=Standard (No BOM)
+Added Pin To Net: NetName=ACP Pin=U2-2
+Added Pin To Net: NetName=ACN Pin=U2-3
+Change Net Name : Old Net Name=ACN New Net Name=ACP
+Change Net Name : Old Net Name=ACP New Net Name=ACN

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetR11_1 Pin=R48-1
+Removed Pin From Net: NetName=NetR11_1 Pin=R49-2
+Removed Pin From Net: NetName=NetR12_1 Pin=R50-1
+Removed Pin From Net: NetName=NetR12_1 Pin=R51-2
+Change Component Description : Designator=J11 Old Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481 New Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481
+Added Pin To Net: NetName=NetR48_1 Pin=R48-1
+Added Pin To Net: NetName=NetR48_1 Pin=R49-2
+Added Net: Name=NetR48_1
+Added Pin To Net: NetName=NetR50_1 Pin=R50-1
+Added Pin To Net: NetName=NetR50_1 Pin=R51-2
+Added Net: Name=NetR50_1

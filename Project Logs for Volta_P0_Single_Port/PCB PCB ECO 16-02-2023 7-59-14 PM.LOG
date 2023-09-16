@@ -1,0 +1,6 @@
+Added Component: Designator=J13(Small Solder POint)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetR13_1 Pin=J13-1
+Added Pin To Net: NetName=NetR13_1 Pin=U2-A1
+Change Net Name : Old Net Name=NetR13_1 New Net Name=NetJ13_1
+Added Member To Class: ClassName=PD_Controller Member=Component J13 Small Board Solder Point

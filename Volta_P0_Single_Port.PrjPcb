@@ -12,7 +12,7 @@ SeparateFolders=0
 TemplateLocationPath=
 PinSwapBy_Netlabel=1
 PinSwapBy_Pin=1
-AllowPortNetNames=0
+AllowPortNetNames=1
 AllowSheetEntryNetNames=1
 AppendSheetNumberToLocalNets=0
 NetlistSinglePinNets=0
@@ -123,13 +123,13 @@ GenerateClassCluster=0
 DocumentUniqueId=DNKZULBH
 
 [Document6]
-DocumentPath=PD_Controller.SchDoc
+DocumentPath=PD_Controller_TI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=1
+AnnotateOrder=7
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -137,43 +137,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=SRGQPQPH
+DocumentUniqueId=UJACTEZL
 
 [Document7]
-DocumentPath=Voltage_Regulation.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=2
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TDFFWPJH
-
-[Document8]
-DocumentPath=PCB.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=PDMMJJCP
-
-[Document9]
 DocumentPath=Charging_TI.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -190,7 +156,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GPIQIHQV
 
-[Document10]
+[Document8]
 DocumentPath=SnapDocs\AON6407.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -205,9 +171,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=HBYAOPXO
+DocumentUniqueId=PVIVNPJL
 
-[Document11]
+[Document9]
 DocumentPath=SnapDocs\AON6407.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -224,7 +190,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=GMIVLSFD
 
-[Document12]
+[Document10]
 DocumentPath=Charging_TI_2.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -241,7 +207,109 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KNRLBRRS
 
+[Document11]
+DocumentPath=Fuel_Gauge.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=9
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EKYUICNL
+
+[Document12]
+DocumentPath=Voltage_Regulation_TI.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=8
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NAAUMBHY
+
 [Document13]
+DocumentPath=I2C.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=6
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MDROESMZ
+
+[Document14]
+DocumentPath=PCB.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PDMMJJCP
+
+[Document15]
+DocumentPath=Panel-Single.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=PXEHBSUG
+
+[Document16]
+DocumentPath=Panel.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=WGRWDWRE
+
+[Document17]
 DocumentPath=SnapDocs\22-03-5025.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -256,9 +324,9 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=JVHTISAB
+DocumentUniqueId=IUXWOLSP
 
-[Document14]
+[Document18]
 DocumentPath=SnapDocs\22-03-5025.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -275,7 +343,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document15]
+[Document19]
 DocumentPath=SnapDocs\43650-0415.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -292,7 +360,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AUHWGVGG
 
-[Document16]
+[Document20]
 DocumentPath=SnapDocs\43650-0415.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -309,74 +377,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=AHQVGPYG
 
-[Document17]
-DocumentPath=CAMtastic.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document18]
-DocumentPath=Drill.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document19]
-DocumentPath=New_Project_Output\CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document20]
-DocumentPath=CAMtastic Drill.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [Document21]
 DocumentPath=SnapDocs\TPS25750DRJKR.SchLib
 AnnotationEnabled=1
@@ -392,7 +392,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WBAUBEDD
+DocumentUniqueId=SOHKCYEH
 
 [Document22]
 DocumentPath=SnapDocs\TPS25750DRJKR.PcbLib
@@ -409,206 +409,664 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
+DocumentUniqueId=WQRYCMSH
+
+[Document23]
+DocumentPath=SnapDocs\TVS2200DRVR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QWVUKGIR
+
+[Document24]
+DocumentPath=SnapDocs\TVS2200DRVR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document25]
+DocumentPath=SnapDocs\TSM-102-01-L-SV-P-TR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=JVHTISAB
+
+[Document26]
+DocumentPath=SnapDocs\TSM-102-01-L-SV-P-TR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document27]
+DocumentPath=SnapDocs\CAT24C256WI-G.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=MPPCSGFD
+
+[Document28]
+DocumentPath=SnapDocs\CAT24C256WI-G.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document29]
+DocumentPath=SnapDocs\5016.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XJVNYJVN
+
+[Document30]
+DocumentPath=SnapDocs\5016.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document31]
+DocumentPath=SnapDocs\CSD15380F3T.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=KRRFEPFJ
+
+[Document32]
+DocumentPath=SnapDocs\CSD15380F3T.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document33]
+DocumentPath=SnapDocs\TPS51225RUKR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=OCCICGJR
+
+[Document34]
+DocumentPath=SnapDocs\TPS51225RUKR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMIVLSFD
+
+[Document35]
+DocumentPath=SnapDocs\74437324022.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=EEXQSISH
+
+[Document36]
+DocumentPath=SnapDocs\74437324022.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=GMIVLSFD
+
+[Document37]
+DocumentPath=SnapDocs\744314330.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=XBGKMRLB
+
+[Document38]
+DocumentPath=SnapDocs\744314330.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UMIALBQM
+
+[Document39]
+DocumentPath=SnapDocs\ESD122DMXR.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=QCGSCRAG
+
+[Document40]
+DocumentPath=SnapDocs\ESD122DMXR.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document41]
+DocumentPath=SnapDocs\BZT52B3V6S.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=NBEPIUYV
+
+[Document42]
+DocumentPath=SnapDocs\BZT52B3V6S.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document43]
+DocumentPath=SnapDocs\BZT52B3V3S R9.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=UPLLJMUS
+
+[Document44]
+DocumentPath=SnapDocs\BZT52B3V3S R9.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document45]
+DocumentPath=SnapDocs\BQ34Z100PW-G1.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=IWEUPJGG
+
+[Document46]
+DocumentPath=SnapDocs\BQ34Z100PW-G1.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document47]
+DocumentPath=SnapDocs\2N7002.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=TQFWLBRS
+
+[Document48]
+DocumentPath=SnapDocs\2N7002.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document49]
+DocumentPath=SnapDocs\BSS84.SchLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SMFIMNQM
+
+[Document50]
+DocumentPath=SnapDocs\BSS84.PcbLib
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document51]
+DocumentPath=CAMtastic6.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document52]
+DocumentPath=CAMtastic7.Cam
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\Design Rule Check - PCB.html
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB-RoundHoles.TXT
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single.REP
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB-SlotHoles.TXT
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.DRR
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Copper_Plane_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.EXTREP
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Copper_Plane_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.GBL
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Copper_Signal_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.GBO
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Copper_Signal_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.GBS
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Copper_Signal_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.GKO
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Copper_Signal_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.GM1
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Drawing_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.GM13
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Drillmap_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.GM15
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Keep-out.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.GM31
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Legend_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.GPB
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Legend_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.GPT
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Mechanical_1.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.GTL
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Mechanical_2.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.GTO
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Mechanical_3.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.GTP
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Mechanical_4.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.GTS
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Mechanical_5.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument20]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.LDP
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Mechanical_6.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument21]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.REP
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Mechanical_11.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument22]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB.RUL
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Mechanical_12.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument23]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Copper_Signal_1.gbr
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Mechanical_13.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument24]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Copper_Signal_2.gbr
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Mechanical_14.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument25]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Copper_Signal_Bot.gbr
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Mechanical_15.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument26]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Copper_Signal_Top.gbr
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Mechanical_16.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument27]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Keep-out.gbr
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Mechanical_31.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument28]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Legend_Bot.gbr
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_NPTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument29]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Legend_Top.gbr
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Pads_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument30]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Mechanical_1.gbr
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Pads_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument31]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Mechanical_2.gbr
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Paste_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument32]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Mechanical_3.gbr
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Paste_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument33]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Mechanical_4.gbr
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Profile.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument34]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Mechanical_5.gbr
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_PTH_Drill.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument35]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Mechanical_6.gbr
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Soldermask_Bot.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument36]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Mechanical_11.gbr
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Panel-Single_Soldermask_Top.gbr
 DItemRevisionGUID=
 
 [GeneratedDocument37]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Mechanical_12.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Mechanical_13.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Mechanical_14.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Mechanical_15.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Mechanical_16.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Mechanical_31.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Pads_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Pads_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument45]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Paste_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument46]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Paste_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument47]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Profile.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument48]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Soldermask_Bot.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument49]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\PCB_Soldermask_Top.gbr
-DItemRevisionGUID=
-
-[GeneratedDocument50]
-DocumentPath=Project Outputs for Volta_P0_Single_Port\Pick Place for PCB.csv
+DocumentPath=Project Outputs for Volta_P0_Single_Port\Pick Place for Panel-Single.csv
 DItemRevisionGUID=
 
 [Configuration1]
@@ -818,7 +1276,7 @@ OutputDefault2=0
 Configuration2_Name1=ForceUpdateSettings
 Configuration2_Item1=False
 Configuration2_Name2=OutputConfigurationParameter1
-Configuration2_Item2=Record=PickPlaceView|Units=Imperial|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:False,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:False,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15|Column#17=Name:Package / Case,Fixed:False,Metric:False,Visible:False,Sort:None,Position:68|Column#18=Name:Configuration,Fixed:False,Metric:False,Visible:False,Sort:None,Position:31|Column#19=Name:Inductance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:50|Column#20=Name:Cod. Fab.,Fixed:False,Metric:False,Visible:False,Sort:None,Position:23|Column#21=Name:Alt. 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:19|Column#22=Name:Frequency - Self Resonant,Fixed:False,Metric:False,Visible:False,Sort:None,Position:45|Column#23=Name:Power (Watts),Fixed:False,Metric:False,Visible:False,Sort:None,Position:73|Column#24=Name:Lens Style,Fixed:False,Metric:False,Visible:False,Sort:None,Position:57|Column#25=Name:packaging,Fixed:False,Metric:False,Visible:False,Sort:None,Position:69|Column#26=Name:Vgs (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:100|Column#27=Name:Diode Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:41|Column#28=Name:Lens Size,Fixed:False,Metric:False,Visible:False,Sort:None,Position:56|Column#29=Name:Thickness (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:96|Column#30=Name:Gate Charge (Qg) (Max) @ Vgs,Fixed:False,Metric:False,Visible:False,Sort:None,Position:47|Column#31=Name:Current Rating (Amps),Fixed:False,Metric:False,Visible:False,Sort:None,Position:38|Column#32=Name:DC Resistance (DCR),Fixed:False,Metric:False,Visible:False,Sort:None,Position:39|Column#33=Name:Voltage - DC Reverse (Vr) (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:103|Column#34=Name:Lens Transparency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:58|Column#35=Name:Reverse Recovery Time (trr),Fixed:False,Metric:False,Visible:False,Sort:None,Position:85|Column#36=Name:Resistance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:84|Column#37=Name:Current - Saturation,Fixed:False,Metric:False,Visible:False,Sort:None,Position:35|Column#38=Name:FET Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:44|Column#39=Name:Supplier 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:91|Column#40=Name:Tolerance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:97|Column#41=Name:Prov. 3,Fixed:False,Metric:False,Visible:False,Sort:None,Position:81|Column#42=Name:Lifecycle Status,Fixed:False,Metric:False,Visible:False,Sort:None,Position:59|Column#43=Name:Material - Core,Fixed:False,Metric:False,Visible:False,Sort:None,Position:61|Column#44=Name:Current - Continuous Drain (Id) @ 25°C,Fixed:False,Metric:False,Visible:False,Sort:None,Position:33|Column#45=Name:Prov. 1 - Cod.,Fixed:False,Metric:False,Visible:False,Sort:None,Position:78|Column#46=Name:Voltage - Forward (Vf) (Max) @ If,Fixed:False,Metric:False,Visible:False,Sort:None,Position:104|Column#47=Name:Power Dissipation (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:74|Column#48=Name:Millicandela Rating,Fixed:False,Metric:False,Visible:False,Sort:None,Position:62|Column#49=Name:_Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:18|Column#50=Name:Shielding,Fixed:False,Metric:False,Visible:False,Sort:None,Position:87|Column#51=Name:Composition,Fixed:False,Metric:False,Visible:False,Sort:None,Position:30|Column#52=Name:componentlink2description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:28|Column#53=Name:Alt. 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:20|Column#54=Name:.Esp. Ad. 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:16|Column#55=Name:Temperature Coefficient,Fixed:False,Metric:False,Visible:False,Sort:None,Position:95|Column#56=Name:componentlink1url,Fixed:False,Metric:False,Visible:False,Sort:None,Position:27|Column#57=Name:Value,Fixed:False,Metric:False,Visible:False,Sort:None,Position:99|Column#58=Name:series,Fixed:False,Metric:False,Visible:False,Sort:None,Position:86|Column#59=Name:Function,Fixed:False,Metric:False,Visible:False,Sort:None,Position:46|Column#60=Name:componentlink1description,Fixed:False,Metric:False,Visible:False,Sort:None,Position:26|Column#61=Name:Features,Fixed:False,Metric:False,Visible:False,Sort:None,Position:43|Column#62=Name:Mounting Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:64|Column#63=Name:Inductance Frequency - Test,Fixed:False,Metric:False,Visible:False,Sort:None,Position:51|Column#64=Name:price,Fixed:False,Metric:False,Visible:False,Sort:None,Position:75|Column#65=Name:Protocol,Fixed:False,Metric:False,Visible:False,Sort:None,Position:76|Column#66=Name:Current - Test,Fixed:False,Metric:False,Visible:False,Sort:None,Position:37|Column#67=Name:Height - Seated (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:48|Column#68=Name:Number of Terminations,Fixed:False,Metric:False,Visible:False,Sort:None,Position:65|Column#69=Name:Voltage - Rated,Fixed:False,Metric:False,Visible:False,Sort:None,Position:106|Column#70=Name:Current - Reverse Leakage @ Vr,Fixed:False,Metric:False,Visible:False,Sort:None,Position:34|Column#71=Name:Part Number,Fixed:False,Metric:False,Visible:False,Sort:None,Position:70|Column#72=Name:Minimum Order,Fixed:False,Metric:False,Visible:False,Sort:None,Position:63|Column#73=Name:Part Status,Fixed:False,Metric:False,Visible:False,Sort:None,Position:71|Column#74=Name:Ratings,Fixed:False,Metric:False,Visible:False,Sort:None,Position:83|Column#75=Name:Speed,Fixed:False,Metric:False,Visible:False,Sort:None,Position:89|Column#76=Name:Applications,Fixed:False,Metric:False,Visible:False,Sort:None,Position:21|Column#77=Name:Technology,Fixed:False,Metric:False,Visible:False,Sort:None,Position:94|Column#78=Name:Current - Supply,Fixed:False,Metric:False,Visible:False,Sort:None,Position:36|Column#79=Name:Operating Temperature - Junction,Fixed:False,Metric:False,Visible:False,Sort:None,Position:67|Column#80=Name:Height (Max),Fixed:False,Metric:False,Visible:False,Sort:None,Position:49|Column#81=Name:Voltage - Forward (Vf) (Typ),Fixed:False,Metric:False,Visible:False,Sort:None,Position:105|Column#82=Name:Size / Dimension,Fixed:False,Metric:False,Visible:False,Sort:None,Position:88|Column#83=Name:Drain to Source Voltage (Vdss),Fixed:False,Metric:False,Visible:False,Sort:None,Position:42|Column#84=Name:Input Capacitance (Ciss) (Max) @ Vds,Fixed:False,Metric:False,Visible:False,Sort:None,Position:52|Column#85=Name:Viewing Angle,Fixed:False,Metric:False,Visible:False,Sort:None,Position:102|Column#86=Name:Supplier Part Number 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:93|Column#87=Name:componentlink2url,Fixed:False,Metric:False,Visible:False,Sort:None,Position:29|Column#88=Name:Prov. 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:79|Column#89=Name:manufacturer,Fixed:False,Metric:False,Visible:False,Sort:None,Position:60|Column#90=Name:Supplier Device Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:92|Column#91=Name:Current - Average Rectified (Io),Fixed:False,Metric:False,Visible:False,Sort:None,Position:32|Column#92=Name:Lens Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:55|Column#93=Name:lastupdated,Fixed:False,Metric:False,Visible:False,Sort:None,Position:54|Column#94=Name:Type,Fixed:False,Metric:False,Visible:False,Sort:None,Position:98|Column#95=Name:Cod. Int.,Fixed:False,Metric:False,Visible:False,Sort:None,Position:24|Column#96=Name:Device Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:40|Column#97=Name:Voltage - Supply,Fixed:False,Metric:False,Visible:False,Sort:None,Position:107|Column#98=Name:.Esp. Ad. 2,Fixed:False,Metric:False,Visible:False,Sort:None,Position:17|Column#99=Name:Prov. 2 - Cod.,Fixed:False,Metric:False,Visible:False,Sort:None,Position:80|Column#100=Name:Vgs(th) (Max) @ Id,Fixed:False,Metric:False,Visible:False,Sort:None,Position:101|Column#101=Name:Prov. 3 - Cod.,Fixed:False,Metric:False,Visible:False,Sort:None,Position:82|Column#102=Name:Interface,Fixed:False,Metric:False,Visible:False,Sort:None,Position:53|Column#103=Name:Capacitance,Fixed:False,Metric:False,Visible:False,Sort:None,Position:22|Column#104=Name:Standards,Fixed:False,Metric:False,Visible:False,Sort:None,Position:90|Column#105=Name:Color,Fixed:False,Metric:False,Visible:False,Sort:None,Position:25|Column#106=Name:partid,Fixed:False,Metric:False,Visible:False,Sort:None,Position:72|Column#107=Name:Prov. 1,Fixed:False,Metric:False,Visible:False,Sort:None,Position:77|Column#108=Name:Operating Temperature,Fixed:False,Metric:False,Visible:False,Sort:None,Position:66|Column#109=Name:ESR (Equivalent Series Resistance),Fixed:False,Metric:False,Visible:False,Sort:None,Position:110|Column#110=Name:Lifetime @ Temp.,Fixed:False,Metric:False,Visible:False,Sort:None,Position:111|Column#111=Name:Power Line Protection,Fixed:False,Metric:False,Visible:False,Sort:None,Position:113|Column#112=Name:Bidirectional Channels,Fixed:False,Metric:False,Visible:False,Sort:None,Position:108|Column#113=Name:Manufacturer Size Code,Fixed:False,Metric:False,Visible:False,Sort:None,Position:112|Column#114=Name:Capacitance @ Frequency,Fixed:False,Metric:False,Visible:False,Sort:None,Position:109|Column#115=Name:Voltage - Reverse Standoff (Typ),Fixed:False,Metric:False,Visible:False,Sort:None,Position:114|Column#116=Name:Availability,Fixed:False,Metric:False,Visible:False,Sort:None,Position:115|Column#117=Name:MF,Fixed:False,Metric:False,Visible:False,Sort:None,Position:118|Column#118=Name:Rds On (Max) @ Id, Vgs,Fixed:False,Metric:False,Visible:False,Sort:None,Position:121|Column#119=Name:MP,Fixed:False,Metric:False,Visible:False,Sort:None,Position:119|Column#120=Name:Capacitance @ Vr, F,Fixed:False,Metric:False,Visible:False,Sort:None,Position:116|Column#121=Name:Drive Voltage (Max Rds On,  Min Rds On),Fixed:False,Metric:False,Visible:False,Sort:None,Position:117|Column#122=Name:Package,Fixed:False,Metric:False,Visible:False,Sort:None,Position:120
+Configuration2_Item2=Record=PickPlaceView|Units=Metric|GenerateCSVFormat=True|GenerateTextFormat=False|ShowUnits=False|Separator=.|ExcludeFilterParam=False|IncludeVariations=False|Filter= |FilterActive=False|Column#1=Name:Designator,Fixed:True,Metric:False,Visible:True,Sort:None,Position:0|Column#2=Name:Comment,Fixed:True,Metric:False,Visible:True,Sort:None,Position:1|Column#3=Name:Layer,Fixed:True,Metric:False,Visible:True,Sort:None,Position:2|Column#4=Name:Footprint,Fixed:True,Metric:False,Visible:True,Sort:None,Position:3|Column#5=Name:Footprint Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:4|Column#6=Name:Center-X,Fixed:True,Metric:True,Visible:True,Sort:None,Position:5|Column#7=Name:Center-Y,Fixed:True,Metric:True,Visible:True,Sort:None,Position:6|Column#8=Name:Rotation,Fixed:True,Metric:False,Visible:True,Sort:None,Position:7|Column#9=Name:Description,Fixed:True,Metric:False,Visible:True,Sort:None,Position:8|Column#10=Name:ComponentKind,Fixed:True,Metric:False,Visible:True,Sort:None,Position:9|Column#11=Name:Height,Fixed:True,Metric:True,Visible:True,Sort:None,Position:10|Column#12=Name:Ref-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:11|Column#13=Name:Ref-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:12|Column#14=Name:Pad-X,Fixed:True,Metric:True,Visible:False,Sort:None,Position:13|Column#15=Name:Pad-Y,Fixed:True,Metric:True,Visible:False,Sort:None,Position:14|Column#16=Name:Variation,Fixed:True,Metric:False,Visible:False,Sort:None,Position:15
 OutputType3=Test Points For Assembly
 OutputName3=Test Point Report
 OutputDocumentPath3=
@@ -838,7 +1296,7 @@ OutputDefault1=0
 Configuration1_Name1=ForceUpdateSettings
 Configuration1_Item1=False
 Configuration1_Name2=OutputConfigurationParameter1
-Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=5|NumberOfUnits=2|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Imperial|ZeroesMode=SuppressLeadingZeroes
+Configuration1_Item2=BoardEdgeRoutToolDia=2000000|GenerateBoardEdgeRout=False|GenerateDrilledSlotsG85=False|GenerateEIADrillFile=False|GenerateSeparatePlatedNonPlatedFiles=False|NumberOfDecimals=4|NumberOfUnits=4|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Record=DrillView|Units=Metric|ZeroesMode=SuppressLeadingZeroes
 OutputType2=Mask
 OutputName2=Solder/Paste Mask Prints
 OutputDocumentPath2=
@@ -871,7 +1329,7 @@ OutputName7=Drill Drawing/Guides
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.04|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
+PageOptions7=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=2.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
 Configuration7_Name1=ForceUpdateSettings
 Configuration7_Item1=False
 Configuration7_Name2=OutputConfigurationParameter1
@@ -916,7 +1374,7 @@ OutputDefault10=0
 Configuration10_Name1=ForceUpdateSettings
 Configuration10_Item1=False
 Configuration10_Name2=OutputConfigurationParameter1
-Configuration10_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Imperial|MinusApertureTolerance=50|NumberOfDecimals=6|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPairs=False|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPairs=False|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16908319~1,16908292~1,16908290~1,16908302~1,16973833~1,16908304~1,16908289~1,16908291~1,16973837~1,16973848~1,16908303~1,16908301~1,16777219~1,16973831~1,16908299~1,16973849~1,16908294~1,16973835~1,16973830~1,16973832~1,16842751~1,16908293~1,16908300~1,16973834~1,16777218~1|PlusApertureTolerance=50|Record=GerberX2View|Sorted=False
+Configuration10_Item2=FileComment= |FileSubject=Autodetect|GenerateDRCRulesFile=True|GerberUnit=Metric|MinusApertureTolerance=39|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|PlotBackDrillingPairs=False|PlotBlindViasPairs=False|PlotBoardProfile=True|PlotDrillDrawingPair0_Backdrill=False|PlotDrillDrawingPair0_DrillType=Regular|PlotDrillDrawingPair0_HighLayer=Bottom Layer|PlotDrillDrawingPair0_LowLayer=Top Layer|PlotDrillDrawingPairs=False|PlotDrillGuidePair0_Backdrill=False|PlotDrillGuidePair0_DrillType=Regular|PlotDrillGuidePair0_HighLayer=Bottom Layer|PlotDrillGuidePair0_LowLayer=Top Layer|PlotDrillGuidePairs=False|PlotMicroViasPairs=False|PlotNPTHPair0_Backdrill=False|PlotNPTHPair0_DrillType=Regular|PlotNPTHPair0_HighLayer=Top Layer|PlotNPTHPair0_LowLayer=Bottom Layer|PlotNPTHPairs=False|PlotPTHPair0_Backdrill=False|PlotPTHPair0_DrillType=Regular|PlotPTHPair0_HighLayer=Top Layer|PlotPTHPair0_LowLayer=Bottom Layer|PlotPTHPairs=False|PlotX2.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16777217~1,16908319~1,16908292~1,16908290~1,16908302~1,16973833~1,16908304~1,16908289~1,16908291~1,16973837~1,16973848~1,16908303~1,16908301~1,16777219~1,16973831~1,16908299~1,16973849~1,16908294~1,16973835~1,16973830~1,16973832~1,16842751~1,16908293~1,16908300~1,16973834~1,16777218~1,16842754~1,16842753~1|PlusApertureTolerance=39|Record=GerberX2View|Sorted=False
 OutputType11=Final
 OutputName11=Final Artwork Prints
 OutputDocumentPath11=
@@ -931,7 +1389,7 @@ OutputDefault12=0
 Configuration12_Name1=ForceUpdateSettings
 Configuration12_Item1=False
 Configuration12_Name2=OutputConfigurationParameter1
-Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Imperial|GerberUnit=Imperial|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set= |LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=40|MinusApertureTolerance=40|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=5|NumberOfDecimals=5|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842751~1,16973835~1,16973831~1,16908289~1,16908301~1,16908303~1,16908319~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=False|PlotUsedDrillGuideLayerPairs=False|PlusApertureTolerance=40|PlusApertureTolerance=40|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False
+Configuration12_Item2=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16908289~1,16908290~1,16908291~1|CentrePlots=False|DrillDrawingSymbol=GraphicsSymbol|DrillDrawingSymbolSize=200000|EmbeddedApertures=True|FilmBorderSize=10000000|FilmXSize=200000000|FilmYSize=160000000|FlashAllFills=False|FlashPadShapes=True|G54OnApertureChange=False|GenerateDRCRulesFile=True|GenerateDRCRulesFile=True|GenerateReliefShapes=True|GerberUnit=Metric|GerberUnit=Metric|IncludeUnconnectedMidLayerPads=False|LayerClassesMirror.Set= |LayerClassesPlot.Set="All Layers","Component Layers","Signal Layers","Electrical Layers"|LeadingAndTrailingZeroesMode=SuppressLeadingZeroes|MaxApertureSize=2500000|MinusApertureTolerance=39|MinusApertureTolerance=39|Mirror.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean|MirrorDrillDrawingPlots=False|MirrorDrillGuidePlots=False|NoRegularPolygons=False|NumberOfDecimals=4|NumberOfDecimals=4|OptimizeChangeLocationCommands=True|OptimizeChangeLocationCommands=True|OriginPosition=Relative|Panelize=False|Plot.Set=SerializeLayerHash.Version~2,ClassName~TLayerToBoolean,16973830~1,16973832~1,16973834~1,16777217~1,16842753~1,16777218~1,16777219~1,16842754~1,16842751~1,16973835~1,16973833~1,16973831~1,16908289~1,16908290~1,16908291~1,16908292~1,16908293~1,16908294~1,16908299~1,16908300~1,16908301~1,16908302~1,16908303~1,16908304~1,16908319~1,16973837~1,16973848~1,16973849~1|PlotPositivePlaneLayers=False|PlotUsedDrillDrawingLayerPairs=True|PlotUsedDrillGuideLayerPairs=True|PlusApertureTolerance=39|PlusApertureTolerance=39|Record=GerberView|SoftwareArcs=True|Sorted=False|Sorted=False
 
 [OutputGroup6]
 Name=Report Outputs
@@ -1322,7 +1780,7 @@ Type32=1
 Type33=1
 Type34=1
 Type35=1
-Type36=1
+Type36=0
 Type37=1
 Type38=1
 Type39=1

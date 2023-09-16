@@ -1,0 +1,7 @@
+Change Component Description : Designator=J11 Old Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481 New Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481
+Added Pin To Net: NetName=+3V3 Pin=R40-2
+Added Pin To Net: NetName=+3V3 Pin=R41-2
+Added Pin To Net: NetName=+3V3 Pin=R42-2
+Added Pin To Net: NetName=+3V3 Pin=R43-2
+Added Pin To Net: NetName=+3V3 Pin=R44-2
+Added Pin To Net: NetName=+3V3 Pin=R45-2

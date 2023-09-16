@@ -1,1 +1,7 @@
-Record=TopLevelDocument|FileName=Charging_TI.SchDoc
+Record=TopLevelDocument|FileName=Charging_TI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Charging_TI.SchDoc|FileName=Charging_TI_2.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Charging_TI.SchDoc|FileName=Fuel_Gauge.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Charging_TI.SchDoc|FileName=I2C.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Charging_TI.SchDoc|FileName=Microcontroller.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Charging_TI.SchDoc|FileName=PD_Controller_TI.SchDoc|SheetNumber= 
+Record=NoMainPathDocument|SourceDocument=Charging_TI.SchDoc|FileName=Voltage_Regulation_TI.SchDoc|SheetNumber= 

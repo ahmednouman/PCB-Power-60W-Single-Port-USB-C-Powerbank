@@ -1,0 +1,76 @@
+Removed Pin From Net: NetName=NetC55_2 Pin=U3-1
+Removed Pin From Net: NetName=NetC55_2 Pin=U3-2
+Removed Pin From Net: NetName=NetJ10_1 Pin=U3-3
+Removed Pin From Net: NetName=NetC54_2 Pin=U3-4
+Removed Pin From Net: NetName=NetR2_1 Pin=U3-5
+Removed Pin From Net: NetName=NetR6_1 Pin=U3-6
+Removed Pin From Net: NetName=GND Pin=U3-7
+Removed Pin From Net: NetName=NetJ6_2 Pin=U3-8
+Removed Pin From Net: NetName=NetJ7_2 Pin=U3-9
+Removed Pin From Net: NetName=NetR1_1 Pin=U3-10
+Removed Pin From Net: NetName=GND Pin=U3-11
+Removed Pin From Net: NetName=GND Pin=U3-12
+Removed Pin From Net: NetName=NetQ3_1 Pin=U3-13
+Removed Pin From Net: NetName=GND Pin=U3-14
+Removed Pin From Net: NetName=NetJ6_1 Pin=U3-16
+Removed Pin From Net: NetName=NetJ7_1 Pin=U3-17
+Removed Pin From Net: NetName=NetR45_1 Pin=U3-18
+Removed Pin From Net: NetName=GND Pin=U3-19
+Removed Pin From Net: NetName=NetC19_2 Pin=U3-20_22
+Removed Pin From Net: NetName=NetC61_2 Pin=U3-23_25
+Removed Pin From Net: NetName=NetR49_1 Pin=U3-26
+Removed Pin From Net: NetName=NetR51_1 Pin=U3-27
+Removed Pin From Net: NetName=NetC56_1 Pin=U3-28
+Removed Pin From Net: NetName=NetC57_1 Pin=U3-29
+Removed Pin From Net: NetName=GND Pin=U3-31
+Removed Pin From Net: NetName=NetC61_2 Pin=U3-32_33
+Removed Pin From Net: NetName=+5V0 Pin=U3-34_35
+Removed Pin From Net: NetName=NetQ2_1 Pin=U3-36
+Removed Pin From Net: NetName=NetQ1_1 Pin=U3-37
+Removed Pin From Net: NetName=+3V3 Pin=U3-38
+Removed Pin From Net: NetName=GND Pin=U3-39
+Removed Member From Class: ClassName=PD_Controller_TI Member=U3
+Added Component: Designator=U?(IC_TPS25750DRJKR)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Availability"; Value = "Unavailable"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "{'manufacturer': u'Texas Instruments'}"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "TPS25750DRJKR"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC55_2 Pin=U?-1
+Added Pin To Net: NetName=NetC55_2 Pin=U?-2
+Added Pin To Net: NetName=NetJ10_1 Pin=U?-3
+Added Pin To Net: NetName=NetC54_2 Pin=U?-4
+Added Pin To Net: NetName=NetR2_1 Pin=U?-5
+Added Pin To Net: NetName=NetR6_1 Pin=U?-6
+Added Pin To Net: NetName=GND Pin=U?-7
+Added Pin To Net: NetName=NetJ6_2 Pin=U?-8
+Added Pin To Net: NetName=NetJ7_2 Pin=U?-9
+Added Pin To Net: NetName=NetR1_1 Pin=U?-10
+Added Pin To Net: NetName=GND Pin=U?-11
+Added Pin To Net: NetName=GND Pin=U?-12
+Added Pin To Net: NetName=NetQ3_1 Pin=U?-13
+Added Pin To Net: NetName=GND Pin=U?-14
+Added Pin To Net: NetName=NetJ6_1 Pin=U?-16
+Added Pin To Net: NetName=NetJ7_1 Pin=U?-17
+Added Pin To Net: NetName=NetR45_1 Pin=U?-18
+Added Pin To Net: NetName=GND Pin=U?-19
+Added Pin To Net: NetName=NetC19_2 Pin=U?-20_22
+Added Pin To Net: NetName=NetC61_2 Pin=U?-23_25
+Added Pin To Net: NetName=NetR49_1 Pin=U?-26
+Added Pin To Net: NetName=NetR51_1 Pin=U?-27
+Added Pin To Net: NetName=NetC56_1 Pin=U?-28
+Added Pin To Net: NetName=NetC57_1 Pin=U?-29
+Added Pin To Net: NetName=GND Pin=U?-31
+Added Pin To Net: NetName=NetC61_2 Pin=U?-32_33
+Added Pin To Net: NetName=+5V0 Pin=U?-34_35
+Added Pin To Net: NetName=NetQ2_1 Pin=U?-36
+Added Pin To Net: NetName=NetQ1_1 Pin=U?-37
+Added Pin To Net: NetName=+3V3 Pin=U?-38
+Added Pin To Net: NetName=GND Pin=U?-39
+Added Pin To Net: NetName=NetU?_15 Pin=U?-15
+Added Pin To Net: NetName=NetU?_15 Pin=U?-30
+Added Pin To Net: NetName=NetU?_15 Pin=U?-40
+Added Net: Name=NetU?_15
+Added Member To Class: ClassName=PD_Controller_TI Member=Component U? TPS25750DRJKR

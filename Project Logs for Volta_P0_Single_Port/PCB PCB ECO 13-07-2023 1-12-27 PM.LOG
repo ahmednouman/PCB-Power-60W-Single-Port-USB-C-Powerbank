@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=FUEL_SRN New Net Name=FUEL_SR_N
+Change Net Name : Old Net Name=FUEL_SRP New Net Name=FUEL_SR_P
+Added Differential Pair: Name=FUEL_SR
+Added Class: Name=CURR_SENSE_FUEL

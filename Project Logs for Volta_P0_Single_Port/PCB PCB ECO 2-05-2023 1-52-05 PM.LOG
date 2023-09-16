@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetC55_2 Pin=J8-2
+Removed Pin From Net: NetName=NetC54_2 Pin=J9-2
+Removed Pin From Net: NetName=GND Pin=U3-41
+Removed Pin From Net: NetName=GND Pin=U3-42
+Removed Pin From Net: NetName=GND Pin=U3-43
+Removed Pin From Net: NetName=GND Pin=U3-44
+Removed Pin From Net: NetName=GND Pin=U3-45
+Removed Pin From Net: NetName=NetU3_15 Pin=U3-46
+Removed Pin From Net: NetName=NetU3_15 Pin=U3-47
+Removed Pin From Net: NetName=NetU3_15 Pin=U3-48
+Removed Member From Class: ClassName=PD_Controller_TI Member=J8
+Removed Member From Class: ClassName=PD_Controller_TI Member=J9
+Change Component Description : Designator=J11 Old Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481 New Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481
+Added Pin To Net: NetName=NetC55_2 Pin=R46-2
+Added Pin To Net: NetName=NetC55_2 Pin=U3-2

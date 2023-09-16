@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=NetJ9_1 Pin=U2-B2
+Removed Pin From Net: NetName=NetJ6_1 Pin=U2-B3
+Removed Member From Class: ClassName=Microcontroller Member=J13
+Added Component: Designator=J7(Small Solder POint)
+Add component. Clean all parameters for all variants
+Added Component: Designator=J8(Small Solder POint)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetJ9_1 Pin=U2-C2
+Added Pin To Net: NetName=NetJ6_1 Pin=U2-C3
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=U2-D3
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetJ8_1 Pin=J8-1
+Added Pin To Net: NetName=NetJ8_1 Pin=U2-C4
+Added Net: Name=NetJ8_1
+Added Pin To Net: NetName=NetR13_1 Pin=R13-1
+Added Net: Name=NetR13_1
+Added Pin To Net: NetName=NetU2_E3 Pin=U2-E3
+Added Pin To Net: NetName=NetU2_E3 Pin=U5-3
+Added Net: Name=NetU2_E3
+Added Pin To Net: NetName=NetU2_E4 Pin=U2-E4
+Added Pin To Net: NetName=NetU2_E4 Pin=U5-2
+Added Net: Name=NetU2_E4
+Added Pin To Net: NetName=NetU2_E5 Pin=U2-E5
+Added Pin To Net: NetName=NetU2_E5 Pin=U5-10
+Added Net: Name=NetU2_E5
+Added Member To Class: ClassName=PD_Controller Member=Component J7 Small Board Solder Point
+Added Member To Class: ClassName=PD_Controller Member=Component J8 Small Board Solder Point
