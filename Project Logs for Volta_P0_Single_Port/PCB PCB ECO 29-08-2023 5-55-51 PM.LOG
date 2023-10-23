@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=FUEL_BATT_SR_N Pin=Q11-2
+Removed Pin From Net: NetName=BOOT0 Pin=Q11-3
+Removed Pin From Net: NetName=BOOT0 Pin=R80-1
+Removed Pin From Net: NetName=+3V3 Pin=R80-2
+Removed Pin From Net: NetName=BOOT0 Pin=R84-1
+Removed Pin From Net: NetName=FUEL_BATT_SR_N Pin=R84-2
+Removed Member From Class: ClassName=Microcontroller Member=Q11
+Removed Member From Class: ClassName=Microcontroller Member=R80
+Removed Member From Class: ClassName=Microcontroller Member=R83
+Removed Member From Class: ClassName=Microcontroller Member=R84
+Added Pin To Net: NetName=BOOT0 Pin=IC2-20

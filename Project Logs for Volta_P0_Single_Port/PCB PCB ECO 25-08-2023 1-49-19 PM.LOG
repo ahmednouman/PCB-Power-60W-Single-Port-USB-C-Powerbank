@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=FUEL_BATT_SR_N Pin=R80-1
+Removed Pin From Net: NetName=BOOT0 Pin=R80-2
+Removed Member From Class: ClassName=Microcontroller Member=R80
+Change Component Description : Designator=J11 Old Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481 New Description=5A 1 Surface Mount 16 Female -55?~+85? Type-C SMD USB Connectors ROHS C2982481

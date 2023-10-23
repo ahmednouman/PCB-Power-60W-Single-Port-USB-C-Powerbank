@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=ALERT_FUEL Pin=R1-2
+Removed Pin From Net: NetName=GPIO5_M Pin=R6-1
+Added Pin To Net: NetName=FUEL_BATT_SR_N Pin=R1-2
+Added Pin To Net: NetName=I2CS_SCL Pin=R6-1

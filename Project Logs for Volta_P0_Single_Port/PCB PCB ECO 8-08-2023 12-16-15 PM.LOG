@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=GPIO2_M Pin=R1-2
+Removed Pin From Net: NetName=GPIO4_M Pin=R2-2
+Change Component Comment : Designator=Q1 Old Comment=AONS3606 New Comment=AONS36306
+Change Component Comment : Designator=Q2 Old Comment=AONS3606 New Comment=AONS36306
+Change Component Comment : Designator=Q3 Old Comment=AONS3606 New Comment=AONS36306
+Change Component Comment : Designator=Q4 Old Comment=AONS3606 New Comment=AONS36306
+Added Pin To Net: NetName=GPIO4_M Pin=R1-2
+Added Pin To Net: NetName=GPIO2_M Pin=R2-2
