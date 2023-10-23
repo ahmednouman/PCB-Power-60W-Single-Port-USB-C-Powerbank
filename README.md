@@ -12,6 +12,6 @@ This is a 6-layer board designed to be a single USB-C Port power bank-like board
 
 ## Images
 
-<img src="images/3D.png" width="300" alt="Image 1">
+<img src="images/3D.png" width="400" alt="Image 1">
 <img src="images/2D.png" width="300" alt="Image 2">
 <img src="images/image.jpeg" width="300" alt="Image 3">
