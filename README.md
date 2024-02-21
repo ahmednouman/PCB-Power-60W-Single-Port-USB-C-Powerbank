@@ -23,3 +23,15 @@ This is a 6-layer board designed to be a single USB-C Port power bank-like board
 <div align="center">
     <img src="images/image.jpeg" width="500" alt="Image 3">
 </div>
+
+<div align="center">
+    <img src="images/FrontVolta.png" width="500" alt="Image 1">
+</div>
+
+<div align="center">
+    <img src="images/FrontD17+MG3+Volta.png" width="500" alt="Image 2">
+</div>
+
+<div align="center">
+    <img src="images/HeroRearD17+MG3+Volta_V.png" width="500" alt="Image 3">
+</div>
